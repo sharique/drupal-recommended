@@ -1,0 +1,8 @@
+uuid: 9782735c-21e9-4a60-b6d1-3edb09042506
+langcode: en
+status: true
+dependencies: {  }
+id: top-menu
+label: 'Top menu'
+description: 'Global menu'
+locked: false

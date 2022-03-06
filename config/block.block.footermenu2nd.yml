@@ -1,22 +1,22 @@
-uuid: 4f20f1c8-9e8e-4663-a288-db38f3e2718c
+uuid: 0f2ca854-dfda-443e-9c5f-6f7fe725b0ad
 langcode: en
 status: true
 dependencies:
   config:
-    - system.menu.footer
+    - system.menu.footer-menu-2nd
   module:
     - system
   theme:
     - olivero
-id: footer
+id: footermenu2nd
 theme: olivero
 region: footer_top
-weight: -8
+weight: -9
 provider: null
-plugin: 'system_menu_block:footer'
+plugin: 'system_menu_block:footer-menu-2nd'
 settings:
-  id: 'system_menu_block:footer'
-  label: Footer
+  id: 'system_menu_block:footer-menu-2nd'
+  label: 'Footer menu 2nd'
   label_display: '0'
   provider: system
   level: 1

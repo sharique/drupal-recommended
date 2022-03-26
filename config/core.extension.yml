@@ -55,4 +55,6 @@ module:
 theme:
   seven: 0
   olivero: 0
+  claro: 0
+  gin: 0
 profile: minimal
